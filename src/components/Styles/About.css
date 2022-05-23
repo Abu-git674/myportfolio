@@ -1,0 +1,31 @@
+.about{
+    color: white;
+    background-color: #AF2120;
+    display: flex;
+    justify-content: left;
+    align-items: left;    
+}
+
+.logo{
+
+    margin-top: 10%;
+    margin-left:5%;
+    margin-bottom: 5%;
+    width: 50vh;
+    height: 60vh;
+    border-radius: 160px 100px;
+
+}
+
+.about-text{
+    margin-top: 15%;
+    margin-left: 5%;
+    margin-bottom: 5%;
+    color: white;
+    font-size: 25px;
+    width: 90vh;
+}
+.navLinkr{
+    margin: 5px;
+    color: lightblue;
+}

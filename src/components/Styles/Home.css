@@ -1,0 +1,25 @@
+.Home-Site{
+    background-color: #B9C298;
+    text-align:center;
+    font-style: italic;
+    padding-bottom: 30%;
+}
+
+.My-logo{
+    height: 60vmin;
+    pointer-events:fill;  
+    border-radius: 50%;
+    padding: 15%;
+}
+
+.header{
+    background-color: #015249;
+    margin-top: 0%;
+    padding: 4%;
+}
+
+.footer{
+    background-color: skyblue;
+    color: aliceblue;
+}
+
